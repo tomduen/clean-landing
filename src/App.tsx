@@ -66,7 +66,7 @@ function App() {
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-gray-900 mb-2">4.9/5</div>
-              <div className="text-gray-600"></div>
+              <div className="text-gray-600">Uptime</div>
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-gray-900 mb-2">150+</div>
